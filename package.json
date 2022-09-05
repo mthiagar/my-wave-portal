@@ -1,0 +1,27 @@
+{
+  "name": "my-wave-portal",
+  "version": "1.0.0",
+  "description": "Buildspace tutorial for Solidity and Smart contracts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mthiagar/my-wave-portal.git"
+  },
+  "author": "Madhuran Thiagarajah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mthiagar/my-wave-portal/issues"
+  },
+  "homepage": "https://github.com/mthiagar/my-wave-portal#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.1.1",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "chai": "^4.3.6",
+    "ethereum-waffle": "^3.4.4",
+    "ethers": "^5.7.0",
+    "hardhat": "^2.9.9"
+  }
+}
